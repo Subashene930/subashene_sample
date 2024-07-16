@@ -1,0 +1,26 @@
+    .form{
+    /* height: 5cm; */
+    width:30%;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    /* padding-top: 15px; */
+    padding: 24px;
+    background-color: antiquewhite;
+  
+
+}
+.lbl{
+    font-size: large;
+   
+}
+.survey{
+    padding-bottom: 7px
+}
+.io{
+    padding-bottom: 20px;
+}
+.btn{
+    margin-left: 10px;
+    padding-block: 3px;
+}
